@@ -10,7 +10,7 @@ Este repositório contém o código-fonte do e-book "Da Cozinha para o Código: 
 ## Como começar
 **Clone o repositório:**
 
- * git clone https://github.com/seu-usuario/lista-compras-python.git
+ * git clone https://github.com/atnzpe/ebook-da-cozinha-para-o-codigo.git
 
 **Acesse a pasta do projeto:**
 
